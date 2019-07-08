@@ -4,7 +4,7 @@
 
 ### Header 3
 
-Some text here. More text here.
+Some text here. New text. 
 
 * List item
 
